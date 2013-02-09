@@ -1,0 +1,25 @@
+{
+	"name": "observeenterwindow",
+	"title": "jQuery observe enter window",
+	"description": "要素がウィンドウに入った／出たかどうかを監視するプラグインです。You can observe when the element enters or leaves the window.",
+	"keywords": [
+		"event",
+		"window",
+		"scroll"
+	],
+	"version": "0.1.0",
+	"author": {
+		"name": "Satoru Kawahara",
+		"email": "esukei@s-uni.net",
+		"url": "http://blog.s-uni.net/"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://www.opensource.org/licenses/MIT"
+		}
+	],
+	"dependencies": {
+		"jquery": ">=1.8"
+	}
+}
