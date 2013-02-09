@@ -3,15 +3,15 @@
 You can observe when the element enters or leaves the window. It's useful to framein effects, to make lazyload, e.t.c.
 
 ## demos
-* [demo1 : Event Viewer](http://demos.s-uni.net/jquery-observeenterwindow/)
-* [demo2 : Effect](http://demos.s-uni.net/jquery-observeenterwindow/offset.html)
+* [demo1 : Event Viewer](http://demos.s-uni.net/jquery-observeEnterWindow/)
+* [demo2 : Effect](http://demos.s-uni.net/jquery-observeEnterWindow/effect.html)
 
 ## requirement
 jQuery 1.8またはそれ以上  
 jQuery 1.8 or later
 
 ## installation
-jquery.jsの後にjquery.observeenterwindow.jsを読み込みます。  
+jquery.jsの後にjquery.observeEnterWindow.jsを読み込みます。  
 Load jquery.observeEnterWindow.js after loading jquery.js.
 
     <script src="/path/to/jquery.js"></script>

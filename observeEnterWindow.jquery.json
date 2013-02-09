@@ -1,6 +1,6 @@
 {
-	"name": "observeenterwindow",
-	"title": "jQuery observe enter window",
+	"name": "observeEnterWindow",
+	"title": "jQuery Observe Enter Window",
 	"description": "要素がウィンドウに入った／出たかどうかを監視するプラグインです。You can observe when the element enters or leaves the window.",
 	"keywords": [
 		"event",

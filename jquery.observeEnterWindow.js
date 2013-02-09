@@ -1,6 +1,6 @@
 /**
  * jQuery observeEnterWindow v0.1.0
- * https://github.com/esukei/jquery-observeentereindow
+ * https://github.com/esukei/jquery-observeEnterWindow
  * Copyright 2013 Satoru Kawahara
  * Licensed under MIT(http://www.opensource.org/licenses/MIT)
  */
