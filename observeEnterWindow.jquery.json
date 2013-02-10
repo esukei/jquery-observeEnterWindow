@@ -13,6 +13,7 @@
 		"email": "esukei@s-uni.net",
 		"url": "http://blog.s-uni.net/"
 	},
+	"demo": "http://demos.s-uni.net/jquery-observeEnterWindow",
 	"licenses": [
 		{
 			"type": "MIT",
